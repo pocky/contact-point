@@ -17,11 +17,6 @@
             "Black\\Component\\ContactPoint\\": "src/Black/Component/ContactPoint/"
         }
     },
-    "autoload-dev": {
-        "psr-4": {
-            "spec\\": "spec/"
-        }
-    },
     "require": {
         "php": ">=5.4.0",
         "black/common": "~1.0",

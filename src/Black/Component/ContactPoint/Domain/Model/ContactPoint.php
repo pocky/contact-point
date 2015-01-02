@@ -41,7 +41,7 @@ class ContactPoint implements Entity
 
     public function getContactPointId()
     {
-        return $this->contactPointId->getValue();
+        return $this->contactPointId;
     }
 
     public function getContactType()

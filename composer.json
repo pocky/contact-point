@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Black\\Component\\ContactPoint\\": "src/Black/Component/ContactPoint/"
+            "Black\\Component\\ContactPoint\\": "src/Black/Component/ContactPoint"
         }
     },
     "require": {
